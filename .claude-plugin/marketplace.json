@@ -1,0 +1,5 @@
+{
+  "name": "usage-band",
+  "owner": { "name": "domoksu105-hash" },
+  "plugins": [{ "name": "usage-band", "source": "./" }]
+}
